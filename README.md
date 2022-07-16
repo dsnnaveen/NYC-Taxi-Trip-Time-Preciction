@@ -4,3 +4,19 @@ In New York City many of people commute to different regions of city via taxi. A
 The dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine commission (TLC).
 
 The main objective is to build a predictive model, which could help them in predicting the trip duration of taxi. This would in turn help them in matching the right cabs with the right customers quickly and efficiently.
+
+
+
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
+Almabetter
+DSN Naveen Kumar | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-dsn)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dsnnaveen)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveendsn9)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1h4OGoeg8ZGdMvZ-5hzjs2zFKG3VjLK62/view?usp=sharing)
